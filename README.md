@@ -15,7 +15,7 @@ I am an accomplished Backend-Developer and Blockchain aficionado, boasting over 
 - Solidity, Rust, web3.js, ethers.js
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Zack-rabin&color=00cf00)
 
 ## My Tech Stack 
 >When you strive to comprehend your code, you a create better workflow 
@@ -42,18 +42,18 @@ I am an accomplished Backend-Developer and Blockchain aficionado, boasting over 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## My GitHub Stats 📊
-[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=yitzackRabin&theme=react-dark)](https://github.com/yitzackRabin)
+[![Rabin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zack-rabin&theme=react-dark)](https://github.com/Zack-rabin)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yitzackRabin&count_private=true&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Zack-rabin&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodhiambo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-rabin" />
 </a>
 <br>
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Zack-rabin&compact=True"/>
 </a>
 
 <h2> About Me</h2>
