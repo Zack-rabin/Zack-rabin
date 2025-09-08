@@ -15,7 +15,7 @@ I am an accomplished Backend-Developer and Blockchain aficionado, boasting over 
 - Solidity, Rust, web3.js, ethers.js
 
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Zack-rabin&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
 
 ## My Tech Stack 
 >When you strive to comprehend your code, you a create better workflow 
