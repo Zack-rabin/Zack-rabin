@@ -58,7 +58,104 @@ I am an accomplished Backend-Developer and Blockchain aficionado, boasting over 
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on Spring Boot Microservices
+- 🔭 I’m currently working on Spring Boot Microservices<!--==================== PROFILE HEADER ====================-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7A9&center=true&vCenter=true&width=650&lines=Backend+Engineer;Blockchain+Developer;Cloud+%2B+Firmware+Systems+Engineer;Distributed+Applications+Architect" />
+</h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zack-rabin&theme=matrix&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+<!--==================== ABOUT ====================-->
+
+### ⚡ Profile Summary  
+Backend Engineer • Blockchain Developer • Cloud & Firmware Systems Engineering Enthusiast
+
+I build **high-performance backend systems**, **secure smart contracts**, and explore the intersection where **cloud engineering meets firmware-level diagnostics**. I enjoy bridging software layers — from backend microservices to low-level system communication and tooling.
+
+---
+
+<!--==================== TECH STACK ====================-->
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,solidity,rust,linux,ubuntu,git,github,docker,azure,aws,postgres,mysql,nodejs,spring,flutter&perline=10" />
+</p>
+
+---
+
+<!--==================== ANIMATED GRID ====================-->
+
+## 🧩 Engineering Focus (Flash Overview)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zack-rabin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-rabin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zack-rabin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!--==================== FIRMWARE + SYSTEMS ENGINEERING ====================-->
+
+## 🔧 Firmware & Systems Engineering Vibe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="260"/>
+</p>
+
+**Focus Areas**  
+- Low-level diagnostics (drivers, COM interfaces, USB enumeration)  
+- Bootloader communication workflows  
+- VM-based security testing (Kali, Ubuntu)  
+- Cloud-enhanced system debugging (logs, observability)  
+- Tooling for device communication & backend orchestration  
+
+---
+
+<!--==================== WORKFLOW ====================-->
+
+## ⚙️ Pipeline & Workflow Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="270" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="270" />
+</p>
+
+---
+
+<!--==================== ACTIVITY ====================-->
+
+## ⏱ Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zack-rabin&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!--==================== CONTACT ====================-->
+
+## 🤝 Let’s Collaborate
+
+Distributed Backend • Blockchain Systems • Firmware/Device Tooling • Cloud Automation • Open Source
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" />
+</p>
+
+
 
 - 🌱 I’m currently working on Azure Microsoft cloud infrastructure
 - react-native cross open-source
